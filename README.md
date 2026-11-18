@@ -1,0 +1,1 @@
+# hs07-isavailable
